@@ -13,7 +13,6 @@ export default function Layout({ children, home }) {
       {/* rel was used along with href, it says the relationship between linked
       url and current file */}
       <Head>
-        <Link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
           content="Learn how to build a personal website using Next.js"
